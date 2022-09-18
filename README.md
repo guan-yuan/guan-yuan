@@ -1,5 +1,7 @@
 ### This is GY Chen 👋
 
+Hi, This is GY Chen. I’m a ML/AI researcher and a Ph.D. candidate at National Tsing Hua University.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guan-yuan&show_icons=true&theme=radical)
 
 
